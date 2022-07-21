@@ -1,7 +1,7 @@
 
 import javax.swing.*;
 
-public class testApp extends JFrame {
+public class SwingTestApp extends JFrame {
 	//reference 
 	JPanel panel;
 	JLabel label;
@@ -13,7 +13,7 @@ public class testApp extends JFrame {
 
 
 	//constructor
-	public testApp(){
+	public SwingTestApp(){
 		Framecomponents();
 		appLabel();
 	}
