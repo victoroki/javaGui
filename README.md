@@ -1,4 +1,9 @@
+swingApp.java
+has a click button that continous increamenting
+![Screenshot 2022-07-27 8 37 00 PM](https://user-images.githubusercontent.com/67438856/181607873-797e378e-cba3-4eff-8ef5-1933c407bf69.png)
+
 # javaGui
+javaGui
 The following program simply creates a window and puts two buttons on it. 
 The button updates a counter each time it is clicked. 
 There is a label that displays the counter value.
