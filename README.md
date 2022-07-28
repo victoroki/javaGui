@@ -1,5 +1,5 @@
-swingApp.java
-
+# SwingApp
+SwingApp is a java GUI program made from swing package
 has a click button that continous increamenting
 
 ![Screenshot 2022-07-27 8 37 00 PM](https://user-images.githubusercontent.com/67438856/181607873-797e378e-cba3-4eff-8ef5-1933c407bf69.png)
